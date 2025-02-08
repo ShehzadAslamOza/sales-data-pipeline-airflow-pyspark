@@ -55,7 +55,7 @@ Developed an Airflow DAG to automate daily e-commerce sales data processing usin
 - Clone this repo
 
 ```
-git clone
+git clone https://github.com/ShehzadAslamOza/sales-data-pipeline-airflow-pyspark.git
 ```
 
 - Add your AWS creds in Airflow, S3 Bucket path in config.
